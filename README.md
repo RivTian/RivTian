@@ -2,7 +2,7 @@
 
 ---
 
-I'm Murabito B, Main business: Pokémon trainer, side job: preparation programmer
+I'm RioTian, Main business: Pokémon trainer, side job: preparation programmer
 
 RioTian is a ✨ *special* ✨ name because it’s unique!
 
