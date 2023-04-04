@@ -2,26 +2,34 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) visitor
 
-### <div align="center">I'm Koshkaaa, a full-time full-stack C++ developer 👨‍💻 working remotely since 2023 🚀</div>  
+# I'm Koshkaaa <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
   
 
-- 🔭 I’m currently working on [JXUST](https://www.jxust.edu.cn/)  
-  
+- 🔭 I’m currently working on **Sansi**
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+- 🌱 I’m currently learning **NLP**
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- 👯 Currently working in **NanChang, China**
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- 🤔 I love **Reading, photography**
+
+- 💬 Ask me about Deep Learning, Python and my projects
+
+- 📫 How to reach me: **kannajiahe@gmail.com**
+
+- 😄 You may like [My Website](https://www.christmas.wang/),[Blog](https://www.cnblogs.com/RioTian/)
+
+- ⚡ Fun fact: **LOL, Movie**
+
+
+
 
 <br/>  
 
 
-## My Skill Set  
+# My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -69,53 +77,3 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<a href="https://github.com/RivTian" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Koshkaaa_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/Koshkaaa" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/RioTian" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=RivTian&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=RivTian&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/Koshkaaa" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
