@@ -12,22 +12,24 @@
 * 📚 即将成为普普通通~~社畜~~一枚（也是单身🌭一条）
 * 🐛 会写点Bug
 
-
-
-<br/>
-
-* 
-
 <h2 align="center">✨一些拙作</h2>
 
-<img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/chewingLyo.gif" align="right" width="150px"></img>
+<img src="https://github.com/RivTian/RivTian/blob/master/sticker/chewingLyo.gif?raw=true" align="right" width="150px"></img>
 
 <div align="left"> 
 
 
 * [N.js](https://github.com/SomeBottle/N.js/) 用于创建弹幕的小库Σ(っ °Д °;)っ~ 
+
 * [-O-](https://github.com/SomeBottle/-O-) 纯静态，利用Github API的博客生成器  
-* and so on...
+
+* [莲 - Live2D](https://github.com/RivTian/Live2D) 网站Live2D动画，引入博客使用
+
+* [CNBlog-theme](https://github.com/RivTian/cnblog-theme-of-simplex) 自用的博客园历代主题样式
+
+* [408-DS](https://github.com/RivTian/408-DS) 考研时期记录的408真题笔记
+
+  and so on...
 
 </div>
 
