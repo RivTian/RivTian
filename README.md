@@ -1,79 +1,55 @@
+<h1 align="center">Hi there ヾ(≧▽≦*)o  </h1>
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+
+<h2 align="center">🤔我是...</h2>
+
+👋 俺是**Koshkaaa**
+
+* 💖 门都没入的动画作画爱好者 / 2.5次元音乐爱好者  
+* 📚 即将成为普普通通~~社畜~~一枚（也是单身🌭一条）
+* 🐛 会写点Bug
+
+
+
+<br/>
+
+* 
+
+<h2 align="center">✨一些拙作</h2>
+
+<img src="https://raw.githubusercontent.com/SomeBottle/somebottle/master/sticker/chewingLyo.gif" align="right" width="150px"></img>
+
+<div align="left"> 
+
+
+* [N.js](https://github.com/SomeBottle/N.js/) 用于创建弹幕的小库Σ(っ °Д °;)っ~ 
+* [-O-](https://github.com/SomeBottle/-O-) 纯静态，利用Github API的博客生成器  
+* and so on...
+
+</div>
+
+<h2 align="center">💬喜欢的动画台词</h2>
+
+<h3 align="center">相信的心就是你的魔法！</h3>
+<p align="center">来自《Little Witch Academia》</p>
+
   
-My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) visitor
 
-# I'm Koshkaaa <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-  
+<h2 align="center">🔑GPG公钥</h2>
 
-- 🔭 I’m currently working on **Sansi**
+<pre align="center">
+暂无
+</pre>
 
-- 🌱 I’m currently learning **NLP**
+<a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank"><img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RivTian&show_icons=true&hide_border=true&theme=dark&locale=cn' align='right'></img></a>
 
-- 👯 Currently working in **NanChang, China**
+* 博客：[Koshkaaa.moe](https://koshkaaa.moe)  
+* 学习仓库：[Cat Note](https://github.com/RivTian/blog-articles) <sup>(包含一些带详细注释的题解)</sup>
+* 博客园小站：[cnblogs/RioTian](https://www.cnblogs.com/RioTian/) <sup>(主要发一些学习笔记)</sup>  
+* bilibili：[https://space.bilibili.com/33398475](https://space.bilibili.com/33398475)  
 
-- 🤔 I love **Reading, photography**
+常来这看看，来这看看~🎵  
 
-- 💬 Ask me about Deep Learning, Python and my projects
-
-- 📫 How to reach me: **kannajiahe@gmail.com**
-
-- 😄 You may like [My Website](https://www.christmas.wang/),[Blog](https://www.cnblogs.com/RioTian/)
-
-- ⚡ Fun fact: **LOL, Movie**
-
-
-
-
-<br/>  
-
-
-# My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
