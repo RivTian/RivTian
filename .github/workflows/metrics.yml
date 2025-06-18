@@ -61,4 +61,3 @@ jobs:
           plugin_stargazers: no
           plugin_stargazers_charts: no
           repositories_affiliations: owner, collaborator
-          # repositories_skipped: ramblings, RivenSkaye/RivenSkaye, dotfiles
