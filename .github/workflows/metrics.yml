@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # User options and customization
-          user: RivenSkaye
+          user: RivTian
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: regular
