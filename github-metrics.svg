@@ -35,9 +35,9 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
               <g>
                 
-                  <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -469,7 +469,7 @@
             <li>Uses spaces for indentation</li>
           
           
-            <li>Has approximately 70.7 characters per line of code written</li>
+            <li>Has approximately 70.6 characters per line of code written</li>
           
           
             <li>Mostly pushes code around 12:00</li>
@@ -649,7 +649,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 2 Aug 2025, 20:37:20  with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 3 Aug 2025, 02:44:32  with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
